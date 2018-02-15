@@ -175,7 +175,7 @@ class CodiceFiscale {
       gender,
       day,
       month,
-      year,
+      yearList,
       birthplace,
       birthplaceProvincia
     }
